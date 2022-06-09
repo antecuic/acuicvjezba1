@@ -6,5 +6,8 @@ namespace acuicvjezba1
 {
     class NewClass
     {
+        public void print() {
+            Console.WriteLine("Ocemo konfliiikt");
+        }
     }
 }
