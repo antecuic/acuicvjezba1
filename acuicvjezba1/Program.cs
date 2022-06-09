@@ -8,6 +8,8 @@ namespace acuicvjezba1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.Writeline("lmao");
         }
     }
 }
+//promjena ono
